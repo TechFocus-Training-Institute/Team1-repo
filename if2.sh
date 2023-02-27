@@ -1,5 +1,9 @@
 #!/bin/bash 
+<<<<<<< HEAD
 #benjamin was here
+=======
+# Theo was also here
+>>>>>>> d40e2a4ca9118246bd7697f326a6822edece6e32
 #
 # Write a shell script to print numbers from 100-90 
 
